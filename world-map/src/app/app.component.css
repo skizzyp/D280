@@ -1,0 +1,53 @@
+html {
+  background-color: midnightblue;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.map {
+  flex: 1;
+}
+
+.info {
+  flex: 1;
+  list-style-type: none;
+}
+
+body {
+  background-color: midnightblue;
+  height: 550px;
+}
+
+td {
+  text-align: center;
+  vertical-align: top;
+  width: 25%;
+
+}
+
+ul {
+  list-style-type: none;
+  color: white;
+}
+
+th {
+  background-color: lightblue;
+  border-radius: 5px;
+}
+
+span {
+  font-size: 20pt;
+}
+table {
+  broder-radius: 5px;
+}
+.info {
+  width:30%;
+}
+.map {
+  width: 75%;
+}

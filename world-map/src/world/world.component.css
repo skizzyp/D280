@@ -1,0 +1,7 @@
+path {
+  fill: lightgrey;
+}
+
+path:hover {
+  fill: orangered;
+}

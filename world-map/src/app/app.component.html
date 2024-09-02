@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div id="container">
+
+<table style="width: 100%">
+    <th>
+        <h1>Interactive World Map</h1>
+
+    </th>
+    <th>
+        <h1>Nation Stats</h1>
+    </th>
+    <tr>
+        <td id="map">
+        <app-world></app-world>
+        </td>
+        <td id="info">
+            <ul>
+                <li>Country Name:</li>
+                <li><span>{{countryName}}</span></li><br>
+                <li>Capital City:</li>
+                <li><span>{{capCity}}</span></li><br>
+                <li>Region:<li>
+                <li><span>{{region}}</span></li><br>
+                <li>Income:<li>
+                <li><span>{{income}}</span></li><br>
+                <li>Latitude:</li>
+                <li><span>{{latitude}}</span></li><br>
+                <li>Longitude:</li>
+                <li><span>{{longitude}}</span></li><br>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+</div>
+</body>
+</html>
+
+
+
