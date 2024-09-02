@@ -2,9 +2,6 @@
 
 WGU D280 Final Project
 
-Scott M Gary 
-
-Student ID:012269995
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
