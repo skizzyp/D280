@@ -1,5 +1,3 @@
-This is my final project submission for WGU d280- Javascript programming.
-
 The task was to create an interactive World-Map that allows a user to select a country and then displays information about that country.
 
 Everything was created using the following:
