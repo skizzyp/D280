@@ -10,4 +10,4 @@ app.component presents the interface to display the map and information about th
 
 world.component contains the SVG file used and the event binding used to read the country clicked.
 
-Once the country is clicked api.service communicates the country selected back to app.component which then uses the api.service again to pull the required information fro, the World Bank Api.
+Once the country is clicked api.service communicates the country selected back to app.component which then uses the api.service again to pull the required information from the World Bank Api.
